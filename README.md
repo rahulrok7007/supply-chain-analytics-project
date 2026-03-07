@@ -21,6 +21,11 @@ This project focuses on analyzing supply chain performance to identify inefficie
 - Power BI (Dashboard & Visualization)
 - Tableau (Dashboard & Visualization)
 
+## Project files
+Excel file : https://drive.google.com/file/d/119yfiJNMGC9c15YgPcC1VTLTrgq2wTlo/view?usp=drive_web 
+
+Power Bi : https://drive.google.com/file/d/1e16dKvH5J9ohfLhy_Ln84ufodSYaLmiR/view?usp=drive_web
+
 ## 📈 Key Insights
 - Identified imbalance between regional demand and inventory levels
 - Highlighted delays caused by supplier lead times
